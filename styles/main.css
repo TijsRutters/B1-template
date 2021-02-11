@@ -235,7 +235,12 @@ footer{
   }
 
   .row{
-    flex-direction: column;
+    display: flex;
+    flex-direction: row;
+  }
+  .row1{
+    display: flex;
+    flex-direction: row;
   }
   .sidy-by-side{
     flex-direction: column;
