@@ -160,7 +160,12 @@ article h2.open-forever{
   max-width: 250px;
   margin: 0 auto;
 }
-
+.woordenproduct{
+  margin-left: 420px;
+  top:-480px;
+  position: relative;
+  
+}
 button{
   width: 100%;
   margin-top: 1em;
