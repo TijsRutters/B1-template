@@ -171,12 +171,20 @@ button{
   font-weight: bold;
   cursor: pointer;
 }
-
+.payment-option1{
+  height: 64px;
+  margin-left: 120px;
+  margin-right: 120px;
+}
 .payment-option{
   height: 64px;
 }
 
 .sidy-by-side{
+  display: flex;
+  flex:33,33%;
+  padding: 30px;
+  width:100px;
 }
 
 .description{
